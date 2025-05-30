@@ -1,5 +1,5 @@
 // get qr  code of any bot using this ....................
-//coded  by wasi
+//coded  by ZaryaBot_V1
 
 
 const express = require("express");
@@ -17,14 +17,14 @@ const { Boom } = require("@hapi/boom");
 const PORT = process.env.PORT ||  5000
 const MESSAGE = process.env.MESSAGE ||  `
 ┌───⭓『
-❒ *WASI-MD*
+❒ *ZaryaBot-V1*
 ❒ _NOW DEPLOY IT_
 └────────────⭓
 ┌───⭓
 ❒  • Chat with owner •
-❒ *GitHub:* __https://github.com/WASI-MD_
-❒ *Author:* _wa.me/923192173398_
-❒ *YT:* _https://youtube.com/@wasitech10_
+❒ *GitHub:* __https://github.com/dawens-boy2/ZaryaBot-V1_
+❒ *Author:* _wa.me/50942241547_
+❒ *YT:* _https://youtu.be/fmvsHiCZvQw?si=E1sCTbTFOCsBW2u2_
 └────────────⭓
 `
 
