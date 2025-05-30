@@ -20,7 +20,7 @@ function removeFile(FilePath){
 router.get('/', async (req, res) => {
     const id = makeid();
     let num = req.query.number;
-        async function GIFTED_MD_PAIR_CODE() {
+        async function ZaryaBot_V1_PAIR_CODE() {
         const {
             state,
             saveCreds
@@ -56,27 +56,23 @@ router.get('/', async (req, res) => {
                let b64data = Buffer.from(data).toString('base64');
                let session = await Pair_Code_By_Gifted_Tech.sendMessage(Pair_Code_By_Gifted_Tech.user.id, { text: '' + b64data });
 
-               let GIFTED_MD_TEXT = `
-*_Pair Code Connected by WASI TECH*
+               let ZaryaBot_V1_TEXT = `
+*_Pair Code Connected by ZaryaBot-V1*
 *_Made With 🤍_*
 ______________________________________
-╔════◇
-║ *『 WOW YOU'VE CHOSEN WASI MD 』*
-║ _You Have Completed the First Step to Deploy a Whatsapp Bot._
-╚════════════════════════╝
 ╔═════◇
-║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
-║❒ *Ytube:* _youtube.com/@wasitech1_
-║❒ *Owner:* _https://wa.me/923192173398_
-║❒ *Repo:* _https://github.com/wasixd/WASI-MD
-║❒ *WaGroup:* _https://whatsapp.com/channel/0029VaDK8ZUDjiOhwFS1cP2j
-║❒ *WaChannel:* _https://whatsapp.com/channel/0029VaDK8ZUDjiOhwFS1cP2j
-║❒ *Plugins:* _https://github.com/wasixd/WASI-MD-PLUGINS_
-╚════════════════════════╝
+║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
+║❒ *Ytube:* _https://youtu.be/fmvsHiCZvQw?si=E1sCTbTFOCsBW2u2_
+║❒ *Owner:* _https://wa.me/message/A4QG2JZKBXFTN1_
+║❒ *Repo:* _https://github.com/dawens-boy2/ZaryaBot-V1_
+║❒ *WaGroup:* _https://chat.whatsapp.com/KLQcOjzRewNHrzO83wrGli_
+║❒ *WaChannel:* _https://whatsapp.com/channel/0029VaYauR9ISTkHTj4xvi1l_
+║❒ *Plugins:* _N/A_
+╚══════════════════════╝ 
 _____________________________________
 
-_Don't Forget To Give Star To My Repo_`
- await Pair_Code_By_Gifted_Tech.sendMessage(Pair_Code_By_Gifted_Tech.user.id,{text:GIFTED_MD_TEXT},{quoted:session})
+_Don't Forget To Give Star ⭐ To The Repo!_`
+ await Pair_Code_By_ZaryaBot_V1.sendMessage(Pair_Code_By_ZaryaBot_V1.user.id,{text:ZaryaBot_V1_TEXT},{quoted:session})
  
 
         await delay(100);
@@ -84,7 +80,7 @@ _Don't Forget To Give Star To My Repo_`
         return await removeFile('./temp/'+id);
             } else if (connection === "close" && lastDisconnect && lastDisconnect.error && lastDisconnect.error.output.statusCode != 401) {
                     await delay(10000);
-                    GIFTED_MD_PAIR_CODE();
+                    ZaryaBot_V1_PAIR_CODE();
                 }
             });
         } catch (err) {
@@ -95,6 +91,6 @@ _Don't Forget To Give Star To My Repo_`
          }
         }
     }
-    return await GIFTED_MD_PAIR_CODE()
+    return await ZaryaBot_V1_PAIR_CODE()
 });
 module.exports = router
