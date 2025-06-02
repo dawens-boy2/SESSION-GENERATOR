@@ -59,18 +59,18 @@ router.get('/', async (req, res) => {
 				   let session = await Qr_Code_By_Wasi_Tech.sendMessage(Qr_Code_By_Wasi_Tech.user.id, { text: '' + b64data });
 	
 				   let WASI_MD_TEXT = `
-*_Session Connected By ZaryaBot-V1_*
+*_Session Connected By 𝐙𝐚𝐫𝐲𝐚𝐁𝐨𝐭-𝐕𝟏_*
 *_Made With 🤍_*
 ______________________________________
 ╔════◇
-║ *『AMAZING YOU'VE CHOSEN ZaryaBot-V1』*
+║ *『AMAZING YOU'VE CHOSEN 𝐙𝐚𝐫𝐲𝐚𝐁𝐨𝐭-𝐕𝟏』*
 ║ _You Have Completed the First Step to Deploy a Whatsapp Bot._
 ╚════════════════════════╝
 ╔═════◇
 ║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
 ║❒ *Ytube:* _https://youtu.be/fmvsHiCZvQw?si=E1sCTbTFOCsBW2u2
-║❒ *Owner:* _https://wa.me/message/THZ3I25BYZM2E1_
-║❒ *Repo:* _https://github.com/dawens-boy2/ZaryaBot-V1_
+║❒ *Owner:* _https://wa.me/message/50942241547_
+║❒ *Repo:* _https://github.com/dawens-boy2/SESSION-GENERATOR_
 ║❒ *WaGroup:* _https://chat.whatsapp.com/KLQcOjzRewNHrzO83wrGli_
 ║❒ *WaChannel:* _https://whatsapp.com/channel/0029VbCHd5V1dAw132PB7M1B_
 ║❒ *Plugins:* _https://github.com/dawens-boy2/ZaryaBot-V1 
