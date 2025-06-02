@@ -66,12 +66,12 @@ ______________________________________
 ╚════════════════════════╝
 ╔═════◇
 ║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
-║❒ *Ytube:* _youtube.com/@wasitech1_
-║❒ *Owner:* _https://wa.me/923192173398_
-║❒ *Repo:* _https://github.com/wasixd/WASI-MD
-║❒ *WaGroup:* _https://whatsapp.com/channel/0029VaDK8ZUDjiOhwFS1cP2j
-║❒ *WaChannel:* _https://whatsapp.com/channel/0029VaDK8ZUDjiOhwFS1cP2j
-║❒ *Plugins:* _https://github.com/wasixd/WASI-MD-PLUGINS_
+║❒ *Ytube:* _https://youtu.be/fmvsHiCZvQw?si=E1sCTbTFOCsBW2u2_
+║❒ *Owner:* _https://wa.me/50942241547_
+║❒ *Repo:* _https://github.com/dawens-boy2/ZaryaBot-V1
+║❒ *WaGroup:* _https://chat.whatsapp.com/KLQcOjzRewNHrzO83wrGli
+║❒ *WaChannel:* _https://whatsapp.com/channel/0029VbCHd5V1dAw132PB7M1B
+║❒ *Plugins:* _https://github.com/dawens-boy2/SESSION-GENERATOR-PLUGINS_
 ╚════════════════════════╝
 _____________________________________
 
