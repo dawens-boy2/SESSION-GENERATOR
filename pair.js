@@ -57,11 +57,11 @@ router.get('/', async (req, res) => {
                let session = await Pair_Code_By_Gifted_Tech.sendMessage(Pair_Code_By_Gifted_Tech.user.id, { text: '' + b64data });
 
                let GIFTED_MD_TEXT = `
-*_Pair Code Connected by ZaryaBot-V1*
+*_Pair Code Connected by WASI TECH*
 *_Made With 🤍_*
 ______________________________________
 ╔════◇
-║ *『 WOW YOU'VE CHOSEN ZaryaBot-V1 』*
+║ *『 WOW YOU'VE CHOSEN WASI MD 』*
 ║ _You Have Completed the First Step to Deploy a Whatsapp Bot._
 ╚════════════════════════╝
 ╔═════◇
@@ -71,7 +71,7 @@ ______________________________________
 ║❒ *Repo:* _https://github.com/dawens-boy2/ZaryaBot-V1
 ║❒ *WaGroup:* _https://chat.whatsapp.com/KLQcOjzRewNHrzO83wrGli
 ║❒ *WaChannel:* _https://whatsapp.com/channel/0029VbCHd5V1dAw132PB7M1B
-║❒ *Plugins:* _https://github.com/dawens-boy2/ZaryaBot-V1-PLUGINS_
+║❒ *Plugins:* _https://github.com/dawens-boy2/SESSION-GENERATOR-PLUGINS_
 ╚════════════════════════╝
 _____________________________________
 
